@@ -399,8 +399,8 @@ p {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  height: 100px;
-  width: 100px;
+  height: 70px;
+  width: 70px;
   margin-top: 10px;
 }
 .project-links img {
