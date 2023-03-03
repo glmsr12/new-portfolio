@@ -698,6 +698,7 @@ textarea {
   }
   /* End About */
   /* contact  */
+
   #contact .contact {
     width: 80%;
     display: flex;
@@ -705,7 +706,6 @@ textarea {
     padding: 100px 0;
     align-items: center;
     justify-content: center;
-    min-width: 20vh;
   }
 
   #contact .form-group {
